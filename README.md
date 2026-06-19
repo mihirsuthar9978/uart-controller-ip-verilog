@@ -165,7 +165,7 @@ Result: PASS
 
 ## Author
 
-Mihir Gajjar
+Mihir Suthar
 
 Electronics and Communication Engineering
 
