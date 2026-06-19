@@ -169,4 +169,4 @@ Mihir Suthar
 
 Electronics and Communication Engineering
 
-Government Engineering College, Gandhinagar
+Government Engineering College, Gandhinagar 
